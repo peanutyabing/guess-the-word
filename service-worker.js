@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/guess-the-word/precache-manifest.94cebfdebb974fd33f3086755bba0f52.js"
+  "/guess-the-word-bootcamp/precache-manifest.247baf64a0bd691c033f9b027d968242.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/guess-the-word/index.html", {
+workbox.routing.registerNavigationRoute("/guess-the-word-bootcamp/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
