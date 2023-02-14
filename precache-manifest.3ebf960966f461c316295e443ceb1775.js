@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "73459c5306ff90e56cc9",
+    "revision": "39a5d7e3f9c78d732b07",
     "url": "/guess-the-word-bootcamp/static/css/main.a36ea9a7.chunk.css"
   },
   {
-    "revision": "73459c5306ff90e56cc9",
-    "url": "/guess-the-word-bootcamp/static/js/main.73459c53.chunk.js"
+    "revision": "39a5d7e3f9c78d732b07",
+    "url": "/guess-the-word-bootcamp/static/js/main.39a5d7e3.chunk.js"
   },
   {
     "revision": "06ca79d7184ef1a98b2e",
@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "/guess-the-word-bootcamp/static/media/hm9.51df2ea2.PNG"
   },
   {
-    "revision": "a9b9e264518bb2184c9997a44a539f0f",
+    "revision": "33c60c915780cf856679e639b4c9f715",
     "url": "/guess-the-word-bootcamp/index.html"
   }
 ];
