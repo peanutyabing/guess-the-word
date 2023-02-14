@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/guess-the-word-bootcamp/precache-manifest.3ebf960966f461c316295e443ceb1775.js"
+  "/guess-the-word-bootcamp/precache-manifest.a4b6852050efbb3d170515ffa28e24f2.js"
 );
 
 workbox.clientsClaim();
